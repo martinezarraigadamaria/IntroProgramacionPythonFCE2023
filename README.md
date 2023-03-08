@@ -8,12 +8,18 @@ Durante 4 clases, se introducirán conceptos básicos de la programación y la p
 A continuación slide de presentación. 
 
 
+
 ## Objetivos
 
 - Desarrollar las destrezas y conocimientos fundamentales sobre Python y recursos asociados.
 - Consolidar los aprendizajes, mediante su aplicación durante las sesiones.
 
 ## Clases
+Se puede acceder a los notebooks de este repositorio utilizando Google Colaboratory a partir de los siguientes links:
+
+- [Notebook 1 - Elementos de Programación y Herramienta Principal](https://colab.research.google.com/github/martinezarraigadamaria/IntroProgramacionPythonFCE2023/blob/master/clases/IntroProgPython1.ipynb)
+
+- [Notebook 2 - Tipos de Datos y Control de flujo](https://colab.research.google.com/github/martinezarraigadamaria/IntroProgramacionPythonFCE2023/blob/master/clases/IntroProgPython2.ipynb)
 
 
 ## Ejercicios Resueltos
