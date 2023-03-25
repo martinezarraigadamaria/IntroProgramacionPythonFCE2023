@@ -22,5 +22,8 @@ Se puede acceder a los notebooks de este repositorio utilizando Google Colaborat
 
 - [Notebook 3 - Control de Flujos](https://colab.research.google.com/github/martinezarraigadamaria/IntroProgramacionPythonFCE2023/blob/master/clases/IntroProgPython3.ipynb)
 
+- [Notebook 4 - Funciones y Estructuras de Datos](https://colab.research.google.com/github/martinezarraigadamaria/IntroProgramacionPythonFCE2023/blob/master/clases/IntroProgPython4.ipynb)
+
+- [Notebook 5 - Librerías](https://colab.research.google.com/github/martinezarraigadamaria/IntroProgramacionPythonFCE2023/blob/master/clases/IntroProgPython5.ipynb)
 
 
